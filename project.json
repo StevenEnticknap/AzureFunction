@@ -1,0 +1,17 @@
+﻿{
+  "frameworks": {
+    "net46": {
+      "dependencies": {
+        ////"Hyak.Common": "1.1.0",
+        "Microsoft.Azure.Common": "2.1.0",
+        "Microsoft.Azure.Common.Dependencies": "1.0.0",
+        "Microsoft.Azure.Management.DataFactories": "4.11.0",
+        "Microsoft.Bcl": "1.1.10",
+        "Microsoft.Bcl.Async": "1.0.168",
+        "Microsoft.Bcl.Build": "1.0.21",
+        "Microsoft.IdentityModel.Clients.ActiveDirectory": "3.13.8"
+        ////"Microsoft.Net.Http": "2.2.29"
+      }
+    }
+  }
+}
